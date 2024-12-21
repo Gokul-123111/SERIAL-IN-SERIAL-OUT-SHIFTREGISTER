@@ -61,6 +61,7 @@ RegisterNumber: 24900980
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 ![image](https://github.com/user-attachments/assets/7c7a39ab-1c53-405d-b7fb-243fe82488e7)
+![WhatsApp Image 2024-12-21 at 08 38 43_d0495b59](https://github.com/user-attachments/assets/0324346f-dd20-433b-b3d5-88fabe6ab387)
 
 **RESULTS**
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
